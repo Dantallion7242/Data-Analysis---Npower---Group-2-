@@ -10,7 +10,7 @@ L'objectif de notre analyse était de développer un modèle prédictif pour les
 
 **Analyse des Données** : Nous avons rassemblé et analysé des données marketing pour identifier des tendances et des informations pouvant éclairer les futures campagnes.
 Livrables :
-**Rapports PDF **: Rapports détaillés résumant nos conclusions et recommandations.
+****Rapports PDF** **: Rapports détaillés résumant nos conclusions et recommandations.
 
 **Présentations** : Présentations visuelles conçues pour communiquer efficacement nos résultats aux parties prenantes.
 
@@ -23,7 +23,7 @@ Notre processus a mis en lumière les défis liés à la définition précise de
 **Contenu du Dépôt**
 **/ifood.csv **: Contient des fichiers de données brutes et des ensembles de données nettoyés.
 
-**CahierDeCharge.docx** **CahierDeCharge.pdf**: Un document qui décrit probablement les exigences et spécifications du projet
+**CahierDeCharge.docx** **CahierDeCharge.pdf**: Un document qui décrit  les exigences et spécifications du projet
 
 **Data Analysis Requirement Sheet - Marketing Director Request** : Rapports PDF et présentations résumant notre travail.
 
