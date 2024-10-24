@@ -1,4 +1,6 @@
 Projet d'Analyse de Campagne Marketing
+
+
 **Contributeurs : Leopoldo, Hakim, Boroumond, Smith, Yousouf**
 
 Ce dépôt GitHub contient le travail collectif produit lors d'un programme de formation axé sur l'analyse des données. Tout au long de ce projet, nous avons cherché à accomplir une série de tâches dans un délai serré, aboutissant à des conclusions bien fondées basées sur des données valides.
