@@ -16,17 +16,20 @@ Livrables :
 
 **Feuilles de Spécifications** : Documentation décrivant les éléments nécessaires à la mise en œuvre de notre modèle prédictif.
 
+
 **Principales Observations**
 Notre processus a mis en lumière les défis liés à la définition précise des dépenses de campagne. Malgré ces complexités, nous avons jeté les bases d'un modèle pouvant aider les marketeurs à mieux comprendre les tendances de dépenses et à prévoir les résultats.
 
 **Contenu du Dépôt**
 **/ifood.csv **: Contient des fichiers de données brutes et des ensembles de données nettoyés.
 
-**/notebooks** : Notebooks Jupyter utilisés pour l'analyse et la visualisation.
+**CahierDeCharge.docx** **CahierDeCharge.pdf**: Un document qui décrit probablement les exigences et spécifications du projet
 
-**/Marketing Presentation** : Rapports PDF et présentations résumant notre travail.
+**Data Analysis Requirement Sheet - Marketing Director Request** : Rapports PDF et présentations résumant notre travail.
 
-**/Cadre de charge**  : Feuilles détaillant les spécifications de notre modèle prédictif.
-Conclusion
+**Model Project.pdf** - Un document PDF qui présente  le modèle prédictif pour les données marketing.
+
+**Data Analysis Requirement Sheet** : Marketing Director Request (7).xlsx - Une feuille Excel détaillant les exigences spécifiques en matière d'analyse de données, comme demandé par le directeur marketing.
+
 
 Ce dépôt reflète non seulement notre parcours d'apprentissage en analyse des données, mais sert également de ressource pour de futurs projets visant à améliorer les stratégies marketing grâce à une prise de décision basée sur les données.
